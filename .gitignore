@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Generated report
+tabular_report.txt
+
+# PyCharm settings
+.idea
